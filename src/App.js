@@ -35,7 +35,7 @@ function App() {
 
         <div className="order-1 md:order-2 w-full">
           <h1 className="text-[4cqw] md:text-[1.5cqw] text-[#114232] font-bold flex-[100%] md:flex-[50%] md:text-right italic ">
-            imageFinder
+            picFinder
           </h1>
         </div>
       </div>
